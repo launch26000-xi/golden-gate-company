@@ -1,8 +1,8 @@
 # Domains — availability and registrar compare (updated 2026-11-23)
 
 ## Availability
-- goldengatescompany.com: AVAILABLE (Shopify connector registry check; Verisign RDAP returned 404 = not registered).
-- goldengates.company: AVAILABLE (Shopify connector registry check).
+- thegoldengatescompany.com: AVAILABLE (Shopify connector registry check; Verisign RDAP returned 404 = not registered).
+- thegoldengates.company: AVAILABLE (Shopify connector registry check).
 Point-in-time check, not a hold.
 
 ## Jason's criteria (correction 2026-11-23)

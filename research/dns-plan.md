@@ -2,7 +2,7 @@
 
 DNS (Domain Name System) = the address book that points the domain to the website and email.
 
-## goldengatescompany.com (main)
+## thegoldengatescompany.com (main)
 | Record | Host | Value | Purpose |
 |---|---|---|---|
 | A / CNAME | @ and www | from the web host at setup | website |
@@ -13,8 +13,8 @@ DNS (Domain Name System) = the address book that points the domain to the websit
 | CNAME/TXT | per Stripe | from Stripe custom email domain setup | receipts from our domain |
 - https: free certificate issued by the web host once the records point there.
 
-## goldengates.company
-- 301 permanent redirect, all paths, to https://goldengatescompany.com (Hover forwarding or the web host).
+## thegoldengates.company
+- 301 permanent redirect, all paths, to https://thegoldengatescompany.com (Hover forwarding or the web host).
 - Email: none (or forward to the main inbox).
 
 Values marked "generated" are filled during setup; never guessed.

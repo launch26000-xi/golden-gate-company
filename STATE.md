@@ -3,7 +3,7 @@
 Last updated: 2026-11-23 (Part 2 research complete)
 
 ## Next bolt
-**Jason: say yes (or no) to buying both domains at Hover, about $64-66 first year.** (Repo stays public for now per Jason; keep no private numbers in it.)
+**Jason buys thegoldengatescompany.com + thegoldengates.company at Hover (~$64-66), then Workspace Business Standard. Claude has no browser on Jason's device; Jason opens the carts.** (Repo public for now; no private numbers.)
 
 ## Log
 | # | Step | Status | Date | Proof | Next bolt |
@@ -15,9 +15,10 @@ Last updated: 2026-11-23 (Part 2 research complete)
 | 1.5 | Skill "golden-gates-state" | doing | 2026-11-23 | Project skill in .claude/skills/golden-gates-state (Claude Code). Account-wide save card not available in this session | Save to claude.ai Skills later |
 | 1.7 | Cloud environment "golden-gate-company" | done | 2026-11-23 | Allows coloradosos.gov, sos.state.co.us, ag.colorado.gov, leg.colorado.gov, rdap.verisign.com | — |
 | 1.6 | Skill search for launch | done | 2026-11-23 | SearchSkills: no new matches. Using jason-superpowers, app-coach, golden-gate-prospectus, deep-research, pdf | — |
-| 2.1a | Domain availability | done | 2026-11-23 | Shopify connector registry check 2026-11-23: goldengatescompany.com AVAILABLE ($17 at Shopify); goldengates.company AVAILABLE ($26 at Shopify). Point-in-time, not a hold | Buy promptly |
+| 2.1a | Domain availability | done (CORRECTED) | 2026-11-23 | Jason corrected names. Shopify registry + Verisign RDAP 404, 2026-11-23: thegoldengatescompany.com AVAILABLE; thegoldengates.company AVAILABLE. Old names (no "the") dropped | Buy at Hover |
 | 2.1b | Registrar compare (integrity, not cheapest) | done | 2026-11-23 | research/domains.md. ONE pick: Hover, flat renewals, ~$64-66/yr both | Jason approves Hover purchase |
 | 2.1c | Platform + 100%-brand decision | done | 2026-11-23 | research/brand-path.md. Pick Path B: own site + embedded Stripe; Hover for domains | Jason approves |
+| 2.1d | Workspace plan | decided | 2026-11-23 | Business Standard: $14/user/mo annual or $16.80 flexible (support.google.com/a/answer/15400543) | Jason pays |
 | 2.2a | CO SOS name availability | done | 2026-11-23 | coloradosos.gov Name Availability 2026-11-23: "The Golden Gates Company LLC", "Golden Gates Company LLC", "The Golden Gates Company" all AVAILABLE. Similar names on file: "Golden Gates" trade name (Effective, 2011); "Golden Gates, LLC" (Delinquent, 2022) | — |
 | 2.2b | LLC formation form (stop at payment) | waiting on Jason | 2026-11-23 | Entity compare done: LLC. Needs principal address + registered-agent choice | Jason picks registered agent |
 | 2.3 | EIN (irs.gov only, free) | todo (after LLC) | 2026-11-23 | Steps in research/formation.md | |

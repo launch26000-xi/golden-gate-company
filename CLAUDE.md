@@ -2,6 +2,8 @@
 
 **Read STATE.md first, every session.**
 
+> **DOMAINS (locked, corrected by Jason 2026-11-23):** `thegoldengatescompany.com` (main) and `thegoldengates.company` (redirects to main). Both start with "the". Never use goldengatescompany.com or goldengates.company.
+
 ## Who Jason is
 - Jason Thompson, founder. Lakewood, Colorado.
 - Devices: Chromebook (Chrome) and Android phone. Never give Mac, Windows or iPhone steps.
@@ -9,7 +11,7 @@
 
 ## The business
 - Golden Gates Company: pet aftercare transport and white-glove memorial concierge, Denver metro.
-- Domains wanted: goldengatescompany.com and goldengates.company (main site = .com; .company redirects to it).
+- Domains (both start with "the"): thegoldengatescompany.com and thegoldengates.company (main site = .com; .company redirects to it).
 - Launch plan has 6 parts: 1 Memory, 2 Buy & register, 3 Business plan, 4 Phone/Google listing/website, 5 Marketing, 6 Rules.
 
 ## Session routine
@@ -30,6 +32,11 @@
 - Every purchase: show item, total and what it covers, then wait for Jason's yes.
 - Stay on one subject until it's nailed down.
 - Never store passwords, card numbers, SSN or EIN digits in this repo.
+
+## Purchases decided
+- Registrar: Hover (both domains, privacy + auto-renew).
+- Email/office: Google Workspace Business Standard ($14/user/mo annual or $16.80 flexible).
+- Google stack after purchase: Business Profile (service-area, Denver), Ads (check signup credit), Merchant Center (if selling urns), Analytics + Search Console.
 
 ## Skills to use
 - jason-superpowers (every task), app-coach (every task), golden-gate-prospectus (plans/pitches),

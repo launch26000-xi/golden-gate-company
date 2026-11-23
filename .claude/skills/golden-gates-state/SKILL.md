@@ -1,8 +1,10 @@
 ---
 name: golden-gates-state
-description: Use for ANY Golden Gates Company work (pet aftercare transport and memorial concierge, Denver; domains goldengatescompany.com and goldengates.company). Read STATE.md and CLAUDE.md in the golden-gate-company repo first, report done items in 3 lines, give Jason the one next bolt, and update STATE.md after every step.
+description: Use for ANY Golden Gates Company work (pet aftercare transport and memorial concierge, Denver; domains thegoldengatescompany.com and thegoldengates.company). Read STATE.md and CLAUDE.md in the golden-gate-company repo first, report done items in 3 lines, give Jason the one next bolt, and update STATE.md after every step.
 ---
 # Golden Gates State
+
+DOMAINS (locked 2026-11-23): thegoldengatescompany.com (main) + thegoldengates.company (redirect). Both start with "the".
 
 1. Open the repo launch26000-xi/golden-gate-company. Read CLAUDE.md, then STATE.md.
 2. Tell Jason in 3 lines what is done, then "Do this next:" plus the single next bolt.

@@ -4,7 +4,7 @@ Jason's rule: no third-party names visible to families anywhere (site, checkout,
 
 ## Path A: Shopify, every branding setting removed
 What a family sees:
-- Site: Golden Gates design on goldengatescompany.com. "Powered by Shopify" footer can be removed in the theme.
+- Site: Golden Gates design on thegoldengatescompany.com. "Powered by Shopify" footer can be removed in the theme.
 - Checkout: on our domain, our logo/colors. BUT on non-Plus plans (Plus starts ~$2,300/mo) checkout layout is locked
   and only lightly brandable; Shop Pay button/"Shop" sign-in prompts appear unless Shop Pay is turned off.
 - Order status / thank-you page: Shopify's standard blocks (map, icons) can't be removed on non-Plus plans.
@@ -16,11 +16,11 @@ Cost: Basic ~$29/mo annual or $39/mo monthly, plus payment fees.
 
 ## Path B: Golden Gates site on its own domain, Stripe handling payments quietly (RECOMMENDED)
 What a family sees:
-- Site: 100% Golden Gates, built by Claude Code, hosted on goldengatescompany.com. Host name never shown.
+- Site: 100% Golden Gates, built by Claude Code, hosted on thegoldengatescompany.com. Host name never shown.
 - Payment: card fields sit INSIDE our own page (Stripe "Payment Element", embedded). No Stripe-hosted page, no
   stripe.com address bar. Turn Link (Stripe's one-click wallet) OFF so no "Link" button shows.
   Keep Apple Pay / Google Pay OFF for 100% (they show their own names).
-- Receipts/emails: turn Stripe receipts OFF and send our own from @goldengatescompany.com (Google Workspace),
+- Receipts/emails: turn Stripe receipts OFF and send our own from @thegoldengatescompany.com (Google Workspace),
   or set Stripe's custom email domain so they come from our domain with our logo.
 - Card statement: our descriptor (e.g. GOLDEN GATES CO).
 Verdict: about 100% ours. The only outside things a family could ever see are their OWN bank's security popup
@@ -29,7 +29,7 @@ Cost: no platform subscription; hosting free-to-low; Stripe per-transaction fee 
 
 ## Same rules for everything else
 - Phone line: ElevenLabs voice says only "Golden Gates." Register outbound caller ID name (CNAM) as GOLDEN GATES.
-- Email: Google Workspace on our domain; recipients see @goldengatescompany.com only.
+- Email: Google Workspace on our domain; recipients see @thegoldengatescompany.com only.
 - Google Business Profile: the listing lives on Google Maps (that's the point), but every word, photo and link is ours.
 - Domain: registrar never visible to families; privacy protection hides owner details.
 
