@@ -1,35 +1,46 @@
-# Domains — availability and registrar compare (2026-11-23)
+# Domains — availability and registrar compare (updated 2026-11-23)
 
 ## Availability
 - goldengatescompany.com: AVAILABLE (Shopify connector registry check; Verisign RDAP returned 404 = not registered).
 - goldengates.company: AVAILABLE (Shopify connector registry check).
 Point-in-time check, not a hold.
 
-## Prices (first year / renewal, USD per year)
-| Registrar | .com | .company | Privacy | Notes |
-|---|---|---|---|---|
-| Cloudflare Registrar | ~$10.44 / same | at registry cost (third-party tracker ~$16.20, unconfirmed) | free | No markup; must use Cloudflare nameservers (free) |
-| Namecheap | $6.48–$11.88 with code / $19.98 + ICANN fee (since 2026-11-01) | $24.48 / $31.48 (official page) | free | Code THANKFULDOT (new customers, thru 11/30, unconfirmed on Namecheap site) |
-| Shopify | $17 | $26 (live quote) | free (most TLDs) | Renewal "in line" with first year |
-| Squarespace Domains (also Google Workspace signup path) | $10–$20 / ~$20–$22 | not found | free | Sources disagree; no official sheet |
-| Porkbun | ~$11.06 / same | not found | free | Flat renewals |
+## Jason's criteria (correction 2026-11-23)
+Not cheapest. Established, high-integrity provider: clear pricing, no bait-and-switch renewals,
+real human support, free privacy, easy DNS and email. Ceiling ~$200 for both domains plus extras.
 
-## Pick
-Cloudflare Registrar for both: lowest multi-year cost, free privacy, auto-renew, free DNS + https.
-Estimated first-year total ~$27 (.com ~$10.44 + .company ~$16.20), confirm at checkout.
+## Compare (USD per year; third-party trackers unless noted; confirm at checkout)
+| Provider | .com yr1 / renewal | .company yr1 / renewal | Renewal = yr1? | Human support | Privacy | Notes |
+|---|---|---|---|---|---|---|
+| **Hover** (Tucows, Toronto, since 2008) | $18.99 / $18.99 | $44.99–$46.99 / same | Yes, flat | Phone, chat, email, 8am–8pm ET daily | Free (most TLDs) | No upsells; registration = renewal = transfer |
+| Squarespace Domains (ex-Google Domains) | $10–$20 / ~$20–$22 | first-year price not published / renewal not published | No (discounted yr1) | Chat/email | Free | Google Workspace route; pricing hard to verify |
+| Shopify | $17 / ~$16–$20 | $26 / not published | ~Yes for .com | Shopify support | Free (most TLDs) | Best only if the site lives on Shopify |
+| Cloudflare Registrar | ~$10.44 / same | ~$16.20 / same (unconfirmed) | Yes | Weak on free plan (reviews) | Free | Locked to Cloudflare nameservers |
+| Namecheap | $6.48–$11.88 promo / $19.98 + fee | $24.48 / $31.48 (official) | No (jump) | 24/7 chat | Free | Promo-then-jump pattern |
+| Skipped | GoDaddy (renewal hikes, heavy upsells); bargain/"cheap names" sites | | | | | |
+
+## ONE pick: Hover
+Flat pricing (renewal equals first year), real people on phone/chat, free privacy, no upsell maze, simple DNS with
+Google Workspace email setup. Both domains ≈ $64–$66/yr, well under the $200 ceiling, leaving room for
+Google Workspace email (Part 2.9).
 
 ## Sources
-- https://www.cloudflare.com/products/registrar/
-- https://www.whtop.com/plans/cloudflare.com/135912
-- https://costgoat.com/pricing/cloudflare-domains
-- https://domaindetails.com/registrars/cheapest
-- https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday.aspx
-- https://domainoffer.net/tld/com/namecheap
-- https://tld-list.com/registrars/namecheap/promos
-- https://namecheap.com/domains/registration/gtld/company
+- https://www.whtop.com/plans/hover.com/82297
+- https://www.techbloat.com/software/hover/
+- https://domainoffer.net/tld/com/hover
+- https://domainoffer.net/tld/company/hover
+- https://costgoat.com/pricing/hover-domains
+- https://pricingsaas.com/companies/hover
+- https://profiletree.com/hover-domain-review/
+- https://www.techradar.com/reviews/hover-domain-registration-service
+- https://support.squarespace.com/hc/en-us/articles/206541907-List-of-top-level-domains-TLDs
+- https://domainoffer.net/tld/company/squarespace
+- https://priceworld.com/domains/squarespace-domains/
+- https://costgoat.com/pricing/squarespace-domains
 - https://www.shopify.com/blog/shopify-domain-cost
 - https://help.shopify.com/en/manual/domains/add-a-domain/buying-domains
-- https://costgoat.com/pricing/squarespace-domains
-- https://frontdeskreview.com/software/domain-registrars/squarespace-domains/
+- https://www.cloudflare.com/products/registrar/
+- https://startupowl.com/reviews/cloudflare-registrar
+- https://namecheap.com/domains/registration/gtld/company
+- https://domainoffer.net/tld/com/namecheap
 - https://support.google.com/a/answer/53929
-- https://porkbun.com/about/porkbun-vs-cloudflare

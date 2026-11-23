@@ -1,9 +1,9 @@
 # STATE — Golden Gates bolt log
 
-Last updated: 2026-11-23
+Last updated: 2026-11-23 (Part 2 research complete)
 
 ## Next bolt
-**Jason: say yes (or no) to buying both domains at Cloudflare Registrar, about $27 first year.** (Repo stays public for now per Jason; keep no private numbers in it.)
+**Jason: say yes (or no) to buying both domains at Hover, about $64-66 first year.** (Repo stays public for now per Jason; keep no private numbers in it.)
 
 ## Log
 | # | Step | Status | Date | Proof | Next bolt |
@@ -16,14 +16,14 @@ Last updated: 2026-11-23
 | 1.7 | Cloud environment "golden-gate-company" | done | 2026-11-23 | Allows coloradosos.gov, sos.state.co.us, ag.colorado.gov, leg.colorado.gov, rdap.verisign.com | — |
 | 1.6 | Skill search for launch | done | 2026-11-23 | SearchSkills: no new matches. Using jason-superpowers, app-coach, golden-gate-prospectus, deep-research, pdf | — |
 | 2.1a | Domain availability | done | 2026-11-23 | Shopify connector registry check 2026-11-23: goldengatescompany.com AVAILABLE ($17 at Shopify); goldengates.company AVAILABLE ($26 at Shopify). Point-in-time, not a hold | Buy promptly |
-| 2.1b | Registrar compare + promo codes | done | 2026-11-23 | See research/domains.md. Pick: Cloudflare Registrar for both (at-cost, free privacy, auto-renew). .com RDAP check 404 = unregistered | Jason approves purchase |
+| 2.1b | Registrar compare (integrity, not cheapest) | done | 2026-11-23 | research/domains.md. ONE pick: Hover, flat renewals, ~$64-66/yr both | Jason approves Hover purchase |
 | 2.2a | CO SOS name availability | done | 2026-11-23 | coloradosos.gov Name Availability 2026-11-23: "The Golden Gates Company LLC", "Golden Gates Company LLC", "The Golden Gates Company" all AVAILABLE. Similar names on file: "Golden Gates" trade name (Effective, 2011); "Golden Gates, LLC" (Delinquent, 2022) | — |
-| 2.2b | LLC formation form (stop at payment) | waiting on Jason | | Needs Jason's SOS login + registered agent + address | |
-| 2.3 | EIN (irs.gov only, free) | todo | | | |
-| 2.4 | CO Dept of Revenue account | todo | | | |
-| 2.5 | Lakewood/Denver license check | todo | | | |
-| 2.6 | Operating agreement | todo | | | |
-| 2.7 | Bank account checklist | todo | | | |
+| 2.2b | LLC formation form (stop at payment) | waiting on Jason | 2026-11-23 | Entity compare done: LLC. Needs principal address + registered-agent choice | Jason picks registered agent |
+| 2.3 | EIN (irs.gov only, free) | todo (after LLC) | 2026-11-23 | Steps in research/formation.md | |
+| 2.4 | CO Dept of Revenue account | researched | 2026-11-23 | Sales tax license $12-16 + $50 deposit if selling urns | After EIN |
+| 2.5 | Lakewood/Denver license check | researched | 2026-11-23 | Lakewood $20/2yr tax license; Denver use-tax license if delivering goods | Confirm by phone/email |
+| 2.6 | Operating agreement | todo | | Draft ~6 pages PDF, size told to Jason | Jason OKs the draft |
+| 2.7 | Bank account checklist | done | 2026-11-23 | research/formation.md | |
 | 2.8 | CO pet transport + cremation rules | done (first pass) | 2026-11-23 | research/co-pet-rules.md. No CO pet-cremation statute found; PACFA transporter = live animals; own crematory needs CDPHE APEN APCD-234 | Confirm with CDA PACFA by email |
 | 2.9 | DNS, https, Workspace email, .company redirect | todo | | | |
 | 3 | Business plan (1-page + full) | todo | | | |
