@@ -3,7 +3,7 @@
 Last updated: 2026-11-23
 
 ## Next bolt
-Pet transport/cremation rules research in progress. (Repo stays public for now per Jason; keep no private numbers in it.)
+**Jason: say yes (or no) to buying both domains at Cloudflare Registrar, about $27 first year.** (Repo stays public for now per Jason; keep no private numbers in it.)
 
 ## Log
 | # | Step | Status | Date | Proof | Next bolt |
@@ -13,6 +13,7 @@ Pet transport/cremation rules research in progress. (Repo stays public for now p
 | 1.3 | STATE.md bolt log | done | 2026-11-23 | this file | Update after every step |
 | 1.4 | Session start/end routine | done | 2026-11-23 | Written in CLAUDE.md | — |
 | 1.5 | Skill "golden-gates-state" | doing | 2026-11-23 | Project skill in .claude/skills/golden-gates-state (Claude Code). Account-wide save card not available in this session | Save to claude.ai Skills later |
+| 1.7 | Cloud environment "golden-gate-company" | done | 2026-11-23 | Allows coloradosos.gov, sos.state.co.us, ag.colorado.gov, leg.colorado.gov, rdap.verisign.com | — |
 | 1.6 | Skill search for launch | done | 2026-11-23 | SearchSkills: no new matches. Using jason-superpowers, app-coach, golden-gate-prospectus, deep-research, pdf | — |
 | 2.1a | Domain availability | done | 2026-11-23 | Shopify connector registry check 2026-11-23: goldengatescompany.com AVAILABLE ($17 at Shopify); goldengates.company AVAILABLE ($26 at Shopify). Point-in-time, not a hold | Buy promptly |
 | 2.1b | Registrar compare + promo codes | done | 2026-11-23 | See research/domains.md. Pick: Cloudflare Registrar for both (at-cost, free privacy, auto-renew). .com RDAP check 404 = unregistered | Jason approves purchase |
@@ -23,7 +24,7 @@ Pet transport/cremation rules research in progress. (Repo stays public for now p
 | 2.5 | Lakewood/Denver license check | todo | | | |
 | 2.6 | Operating agreement | todo | | | |
 | 2.7 | Bank account checklist | todo | | | |
-| 2.8 | CO pet transport + cremation rules | todo | | | |
+| 2.8 | CO pet transport + cremation rules | done (first pass) | 2026-11-23 | research/co-pet-rules.md. No CO pet-cremation statute found; PACFA transporter = live animals; own crematory needs CDPHE APEN APCD-234 | Confirm with CDA PACFA by email |
 | 2.9 | DNS, https, Workspace email, .company redirect | todo | | | |
 | 3 | Business plan (1-page + full) | todo | | | |
 | 4.1 | Business phone + ElevenLabs 24/7 agent | todo | | | |
